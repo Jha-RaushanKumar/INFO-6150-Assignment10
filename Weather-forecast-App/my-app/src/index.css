@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(151, 146, 156);
+  background-color: white;
 }
 
 code {
@@ -15,12 +15,13 @@ code {
 
 .card {
   display: inline-block !important;
-  width: 100%;
-  color: rgb(38, 38, 33);
-  background-color: rgb(200, 61, 61);
+  width: 110%;
+  margin-left: -5%;
+  color: rgb(197, 31, 64);
+  background-color: rgb(122, 91, 91);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: larger;
-  border-color: blue;
+  border-color: rgb(3, 3, 255);
 }
 
 h1 {
