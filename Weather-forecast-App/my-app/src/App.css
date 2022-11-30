@@ -40,13 +40,12 @@ a:hover {
 .container,
 .card {
 
-  background-color: white;
-  background-size: cover;
+  background-color: rgb(151, 146, 156);
 }
 
 .btn {
   color: rgb(255, 0, 149);
-  border-radius: 200px;
+  border-radius: 2px;
 
 }
 

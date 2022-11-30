@@ -17,7 +17,7 @@ function WeatherContainer() {
     }, []);
 
     let display;
-    if (completeData.length > 0 || hasError == false) {
+    if ((completeData.length > 0 || hasError == false)) {
         display = displayData();
     }
     function changeText(event) {
@@ -76,6 +76,7 @@ function WeatherContainer() {
                     label="Enter City:"
                     value={cityName}
                     onChange={changeText}
+                    defaultValue=" "
                 />
                 {"     "}
                 <input
