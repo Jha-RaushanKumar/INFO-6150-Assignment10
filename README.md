@@ -1,3 +1,5 @@
 # Weather-forecast-App
 
-### INFO-6150-Assignment10
+Author: `Raushan Kumar Jha`  
+Instructor: `Vishal Chawla`
+## INFO 6150 Assignment9
